@@ -38,6 +38,10 @@
       font-weight: bold;
   }
 
+  #image {
+    max-width: 500px;
+    display: block;
+  }
   #img-caption {
       font-size: 30px;
   }
